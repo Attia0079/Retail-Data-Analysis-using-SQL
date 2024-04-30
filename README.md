@@ -7,8 +7,8 @@ This project aims to analyze data from a retail store to derive insights and fac
 - Analysis conducted using *SQL*.
 - Project components:
   - Exploratory data analysis (EDA).
-  - Formulating and addressing business questions.
   - Customer Segmentation using RFM model.
+  - Formulating and addressing business questions.
   - Tracking customer behavior based on purchasing data.
     
 *This repository comprises 3 directories:*
