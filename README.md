@@ -13,5 +13,5 @@ This project aims to analyze data from a retail store to derive insights and fac
     
 *This repository comprises 3 directories:*
 - `SQL Code` &rarr; has all the `.sql` files that contain the queries.
-- `Datasets` &rarr; has 2 `.csv` files of the datasets and 2 `.sql` files for the DDL queries of creating the tables.
+- `Database` &rarr; has 2 `.csv` files of the datasets and 2 `.sql` files for the DDL queries of creating the tables.
 
