@@ -3,7 +3,8 @@
 This project aims to analyze data from a retail store to derive insights and facilitate decision-making regarding product popularity, product and customer profitability, customer segmentation, and various metrics. It leverages advanced SQL techniques including Window Functions, Common Table Expressions (CTEs), and others.
 
 *The project involved the following steps:*
-- Data ingestion into `PostgreSQL` using `DBeaver`, followed by table creation in the database.
+- Table creation in the database (DDL-script is in the database folder)
+- Data ingestion into `PostgreSQL` using `DBeaver`.
 - Analysis conducted using *SQL*.
 - Project components:
   - Exploratory data analysis (EDA).
